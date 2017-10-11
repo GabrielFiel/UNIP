@@ -1,14 +1,14 @@
-# Projetos UNIP - An·lise e Desenvolvimento de Sistemas
+# Projetos UNIP - An√°lise e Desenvolvimento de Sistemas
 
-RepositÛrio com todos os projetos e exercÌcios propostos pela faculdade, em v·rias linguagens diferentes.
+Reposit√≥rio com todos os projetos e exerc√≠cios propostos pela faculdade, em v√°rias linguagens diferentes.
 
-# MatÈrias 1∞ Semestre
+### Mat√©rias 1¬∞ Semestre
 
- - Metodologia CientÌfica
- - Matem·tica para ComputaÁ„o
- - Fundamentos de Redes de Dados e ComunicaÁ„o
- - …tica e LegislaÁ„o
- - Linguagem e TÈcnicas de ProgramaÁ„o
+ - Metodologia Cient√≠fica
+ - Matem√°tica para Computa√ß√£o
+ - Fundamentos de Redes de Dados e Comunica√ß√£o
+ - √âtica e Legisla√ß√£o
+ - Linguagem e T√©cnicas de Programa√ß√£o
  - Engenharia de Software I
  - PIM III
  - PIM IV
