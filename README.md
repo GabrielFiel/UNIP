@@ -4,11 +4,11 @@ Repositório com todos os projetos e exercícios propostos pela faculdade, em vári
 
 # Matérias 1° Semestre
 
-	- Metodologia Científica
-	- Matemática para Computação
-	- Fundamentos de Redes de Dados e Comunicação
-	- Ética e Legislação
-	- Linguagem e Técnicas de Programação
-	- Engenharia de Software I
-	- PIM III
-	- PIM IV
+ - Metodologia Científica
+ - Matemática para Computação
+ - Fundamentos de Redes de Dados e Comunicação
+ - Ética e Legislação
+ - Linguagem e Técnicas de Programação
+ - Engenharia de Software I
+ - PIM III
+ - PIM IV
